@@ -4,4 +4,4 @@ We're part of the [Centre for Sustainable and Circular Technologies](https://www
 
 ## People
 
-WEi Zhang is working for [C-THRU project](https://www.c-thru.org/).
+Wei Zhang is working for [C-THRU project](https://www.c-thru.org/).
