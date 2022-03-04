@@ -4,6 +4,6 @@ We're part of the [Centre for Sustainable and Circular Technologies](https://www
 
 ## People
 
-- Carla Saunders
+- **Carla Saunders** is a PDRA in the Lupton Group working on the [UK FIRES](https://ukfires.org/) project. 
 
-Carla is a PDRA in the Lupton Group working on the [UK FIRES](https://ukfires.org/) project. 
+- **Wei Zhang** is working for [C-THRU project](https://www.c-thru.org/).
