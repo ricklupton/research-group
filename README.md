@@ -4,6 +4,6 @@ We're part of the [Centre for Sustainable and Circular Technologies](https://www
 
 ## People
 
-#### Carla Saunders
+- Carla Saunders
 
 Carla is a PDRA in the Lupton Group working on the [UK FIRES](https://ukfires.org/) project. 
